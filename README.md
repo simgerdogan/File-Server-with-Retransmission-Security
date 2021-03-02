@@ -20,7 +20,7 @@ A protocol consisting of two parts, Control and Transfer, has been developed.
 
 
 
-### [Back To The Top](#Software-Architecture-for-Natural-Disaster)
+### [Back To The Top](#File-Server-with-Retransmission-Security)
 
 ---
 
@@ -34,7 +34,7 @@ A protocol consisting of two parts, Control and Transfer, has been developed.
 - It can be assumed that the sender has a public key and is known to the clients. 
 
 
-### [Back To The Top](#Software-Architecture-for-Natural-Disaster)
+### [Back To The Top](#File-Server-with-Retransmission-Security)
 
 ---
 
@@ -44,7 +44,7 @@ A protocol consisting of two parts, Control and Transfer, has been developed.
 - Python ( programming language )
 
 
-### [Back To The Top](#Software-Architecture-for-Natural-Disaster)
+### [Back To The Top](#File-Server-with-Retransmission-Security)
 
 ---
 
